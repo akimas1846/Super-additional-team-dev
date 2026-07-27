@@ -1,7 +1,7 @@
 # Git管理規則
 
 ## 開発する前に
-開発をする前にフェッチしdevelop,origin/developの状態を同期させておく \
+開発をする前にfetchしdevelop,origin/developの状態を同期させておく \
 ```
 git fetch
 git pull
